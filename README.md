@@ -1,4 +1,4 @@
-## Hi there 👋
+## Bem-vindo ao meu repositório de estudos 👋
 
 
 **gustavoluz2608/gustavoluz2608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
