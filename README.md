@@ -2,11 +2,10 @@
 
 #### Meu nome é Gustavo, trabalho como Engenheiro de Software no Banco Mercantil e bacharelando em Sistemas de Informação pela PUC Minas.
 
-Nas minhas horas vagas gosto de tomar café caro e escutar música ruim 🤣
 
 
 - 🔭 Atualmente estou trabalhando com desenvolvimento de APIs .NET 3.1 e desenvolvimento de interfaces com Angular Framework
-- 🌱 Além da Engenharia de Software, tenho interesse por Ciência de Dados e Inteligência Artificial
+- 🌱 Apaixonado por tecnologia e soluções inteligentes
 - 👯 Contribuo em projetos acadêmicos e também pessoais de estudo
 
 <div style="display: inline_block"><br>
