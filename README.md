@@ -6,7 +6,7 @@
 
 - 🔭 Atualmente estou trabalhando com desenvolvimento de APIs .NET 3.1 e desenvolvimento de interfaces com Angular Framework
 - 🌱 Apaixonado por tecnologia e soluções inteligentes
-- 👯 Contribuo em projetos acadêmicos e também pessoais de estudo
+- 👯 Contribuo em projetos acadêmicos e de estudos pessoais
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gustavo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
