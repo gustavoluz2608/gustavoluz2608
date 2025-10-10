@@ -1,10 +1,10 @@
 # Seja bem-vindo ao meu repositório de estudos 👋
 
-#### Meu nome é Gustavo, trabalho como Engenheiro de Software no Banco Mercantil e bacharelando em Sistemas de Informação pela PUC Minas.
+#### Meu nome é Gustavo, trabalho como Engenheiro de Software no Banco Mercantil.
 
 
 
-- 🔭 Atualmente estou trabalhando com desenvolvimento de APIs .NET 3.1 e desenvolvimento de interfaces com Angular Framework
+- 🔭 Atualmente estou trabalhando com desenvolvimento de APIs .NET e desenvolvimento de interfaces com Angular Framework
 - 🌱 Apaixonado por tecnologia e soluções inteligentes
 - 👯 Contribuo em projetos acadêmicos e de estudos pessoais
 
